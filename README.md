@@ -1,2 +1,2 @@
-# LTP.Interop.Wrappers
-Wrapper collection for LTP.Interop
+# LTP.Interop.Bindings
+Low-level binding collection for LTP.Interop
